@@ -13,7 +13,7 @@ file.close
 
 ### Excercises
 
-Use exception handling to make sure that code above always closes the file
+Practice reading from a file
 
 ### Writing to a file - cont.
 
