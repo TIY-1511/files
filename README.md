@@ -1,5 +1,7 @@
 # files
 
+Do this outside of rails, in a 'normal' `main.rb` file.
+
 #### Writing to a file
 
 Using the File class:
